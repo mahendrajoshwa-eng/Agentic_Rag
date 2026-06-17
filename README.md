@@ -69,7 +69,7 @@ Before running this project, make sure you have:
 ### 1. Clone the Repository
 
 ```bash id="g1"
-git clone https://github.com/saniahpaul/agentic_ai-.git
+https://github.com/mahendrajoshwa-eng/Agentic_Rag.git
 ```
 
 ### 2. Install Frontend Dependencies
